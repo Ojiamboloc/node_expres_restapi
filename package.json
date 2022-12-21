@@ -1,0 +1,22 @@
+{
+  "name": "node_express_api",
+  "version": "1.0.0",
+  "description": "APIs",
+  "main": "index.js","type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ojiamboloc/node_expres_restapi.git"
+  },
+  "author": "Ojiambo Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ojiamboloc/node_expres_restapi/issues"
+  },
+  "homepage": "https://github.com/Ojiamboloc/node_expres_restapi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
